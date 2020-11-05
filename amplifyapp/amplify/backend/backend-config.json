@@ -1,1 +1,10 @@
-{}
+{
+  "auth": {
+    "bellasd371a9bc": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}

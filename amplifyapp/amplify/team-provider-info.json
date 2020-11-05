@@ -10,6 +10,11 @@
       "StackName": "amplify-bellas-dev-191245",
       "StackId": "arn:aws:cloudformation:us-east-2:452736267071:stack/amplify-bellas-dev-191245/114d0d10-1d7a-11eb-b21c-029eea1c8142",
       "AmplifyAppId": "d2569yx9ip5gfd"
+    },
+    "categories": {
+      "auth": {
+        "bellasd371a9bc": {}
+      }
     }
   }
 }
